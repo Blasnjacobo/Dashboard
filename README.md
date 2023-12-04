@@ -1,9 +1,12 @@
 In this project I am Building a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI
 For the backEnd we are downloading:
+<br />
 npm i -g nodemon
+<br />
 npm i express body-parser bcrypt cors dotenv gridfs-stream multer multer-gridfs-storage helmet morgan jsonwebtoken mongoose
+<br />
 npm init -y
-
+<br />
 GLOSARY:
 - MIDDLEWARE: A FUNCTION THAT RUNS IN BETWEEN DIFFERENT REQUEST
 - DATA MODELS: WAYS OF ORGANIZING YOUR DATA IN NICE SUCCINCT CATEGORIES MAKING SURE THEY ARE SEPARATE FROM EACH OTHER AND WE CAN MAKE RELAYIONS BETWEEN EACH OTHER. SO, LETS ORGANIZE THIS WEBSITE:
