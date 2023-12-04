@@ -11,6 +11,7 @@ GLOSARY:
 
 <br />
 EXPLANATIONS:
+<br />
 (1) In order to get the current URL while using module type we actually have to import meta url and then call it with path.dirname <br />
 (2) Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env.<br />
 Usage: 
