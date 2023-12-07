@@ -149,7 +149,7 @@ export const posts = [
     firstName: 'Steve',
     lastName: 'Ralph',
     location: 'New York, CA',
-    description: 'Some really long random description',
+    description: 'Salad because of diet',
     picturePath: 'post1.jpeg',
     userPicturePath: 'p3.jpeg',
     likes: new Map([
@@ -159,9 +159,9 @@ export const posts = [
       [userIds[4], true]
     ]),
     comments: [
-      'random comment',
-      'another random comment',
-      'yet another random comment'
+      'Lets get huge bro 3>',
+      'lots of vegetables, I pass',
+      'What about a pizza while watching fotball next sunday evening?'
     ]
   },
   {
@@ -171,7 +171,7 @@ export const posts = [
     lastName: 'Doing',
     location: 'Korea, CA',
     description:
-      'Another really long random description. This one is longer than the previous one.',
+      'FOOD PIC, AESTHETIC MOOD: ON',
     picturePath: 'post2.jpeg',
     userPicturePath: 'p6.jpeg',
     likes: new Map([
@@ -181,10 +181,10 @@ export const posts = [
       [userIds[2], true]
     ]),
     comments: [
-      'one more random comment',
-      'and another random comment',
-      'no more random comments',
-      'I lied, one more random comment'
+      'It doesnt look that tasty',
+      'DID YOU GO THERE WITH MARIA?????',
+      'Who TF brings Real Madrids jersey to a first date',
+      'It was the black one, the elegant one'
     ]
   },
   {
@@ -194,7 +194,7 @@ export const posts = [
     lastName: 'Doe',
     location: 'Utah, CA',
     description:
-      'This is the last really long random description. This one is longer than the previous one.',
+      'Lollapalooza Chicago 2023',
     picturePath: 'post3.jpeg',
     userPicturePath: 'p5.jpeg',
     likes: new Map([
@@ -204,11 +204,11 @@ export const posts = [
       [userIds[5], true]
     ]),
     comments: [
-      'one more random comment',
-      'I lied, one more random comment',
-      'I lied again, one more random comment',
-      'Why am I doing this?',
-      "I'm bored"
+      'I have gotten sister pregnant, this message in going to get lost in the comments',
+      'you whaaaatt!!!',
+      'Kidding, UWu',
+      'tHIS EVENT IS HUGEEEE',
+      'MEH'
     ]
   },
   {
@@ -218,7 +218,7 @@ export const posts = [
     lastName: 'Dunn',
     location: 'Los Angeles, CA',
     description:
-      "This is the last really long random description. This one is longer than the previous one. Man I'm bored. I'm going to keep typing until I run out of things to say.",
+      'Vancouver fireworks, You were amazing, every year you nail it',
     picturePath: 'post4.jpeg',
     userPicturePath: 'p7.jpeg',
     likes: new Map([
@@ -227,12 +227,12 @@ export const posts = [
       [userIds[3], true]
     ]),
     comments: [
-      'I lied again, one more random comment',
-      'Why am I doing this?',
-      "I'm bored",
-      "I'm still bored",
-      'All I want to do is play video games',
-      "I'm going to play video games"
+      'Last year were better, mate',
+      'Amazing experience!',
+      'Mexico deserved to win this competition',
+      'Bored',
+      'Next time you shold go together babe',
+      'You have to invite Monica though'
     ]
   },
   {
@@ -242,7 +242,7 @@ export const posts = [
     lastName: 'Vowel',
     location: 'Chicago, IL',
     description:
-      "Just a short description. I'm tired of typing. I'm going to play video games now.",
+      'Cant wait for EDC in february, Mexico city here we go',
     picturePath: 'post5.jpeg',
     userPicturePath: 'p8.jpeg',
     likes: new Map([
@@ -252,11 +252,11 @@ export const posts = [
       [userIds[7], true]
     ]),
     comments: [
-      'I lied again, one more random comment',
-      'Why am I doing this?',
-      "Man I'm bored",
-      'What should I do?',
-      "I'm going to play video games"
+      'GPI',
+      'GPI x2',
+      'GPI x3',
+      'amazing frieeeeend',
+      "i dont care, I'm going to play video games"
     ]
   },
   {
@@ -266,7 +266,7 @@ export const posts = [
     lastName: 'Dunn',
     location: 'Washington, DC',
     description:
-      "For the last time, I'm going to play video games now. I'm tired of typing. I'm going to play video games now.",
+      'Sunset looks good, but not as you dancing ragueton baby',
     picturePath: 'post6.jpeg',
     userPicturePath: 'p9.jpeg',
     likes: new Map([
@@ -275,11 +275,11 @@ export const posts = [
     ]),
 
     comments: [
-      'Can I play video games now?',
-      "No let's actually study",
+      'I can tell',
+      ':o',
       "Never mind, I'm going to play video games",
-      'Stop it.',
-      'Michael, stop it.'
+      'Jessicaaaaa',
+      'Such a nasty, fantastic girl'
     ]
   }
 ]
