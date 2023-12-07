@@ -38,7 +38,7 @@ const Navbar = () => {
             }
           }}
         >
-          My Social Media 3000
+          My Website 3000
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
