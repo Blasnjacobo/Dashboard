@@ -14,6 +14,8 @@ const PostsWidget = ({ userId, isProfile = false }) => {
       headers: { Authorization: `Bearer ${token}` }
     })
     const data = await response.json()
+    const reversed = data.reverse()
+    console.log(reversed)
     dispatch(setPosts({ posts: data }))
   }
 
@@ -26,7 +28,10 @@ const PostsWidget = ({ userId, isProfile = false }) => {
       }
     )
     const data = await response.json()
-    dispatch(setPosts({ posts: data }))
+    console.log(data)
+    const reversed = data.reverse()
+    console.log(reversed)
+    dispatch(setPosts({ posts: reversed }))
   }
 
   useEffect(() => {
