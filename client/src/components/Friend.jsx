@@ -23,7 +23,7 @@ const Friend = ({ friendId, name, subtitle, userPicturePath }) => {
 
   const patchFriend = async () => {
     const response = await fetch(
-      `http://localhost:3001/users/${_id}/${friendId}`,
+      `https://website-d1f1.onrender.com/users/${_id}/${friendId}`,
       {
         method: 'PATCH',
         headers: {
@@ -44,7 +44,6 @@ const Friend = ({ friendId, name, subtitle, userPicturePath }) => {
         <Box
           onClick={() => {
             navigate(`/profile/${friendId}`)
-            navigate(0)
           }}
         >
           <Typography
