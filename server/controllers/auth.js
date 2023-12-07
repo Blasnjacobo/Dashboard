@@ -20,7 +20,7 @@ export const register = async (req, res) => {
       picturePath,
       friends,
       location,
-      ocupation
+      occupation
     } = req.body
     //* So, in the frontend we will have to send an object that has these arguments
 
@@ -35,7 +35,7 @@ export const register = async (req, res) => {
       picturePath,
       friends,
       location,
-      ocupation,
+      occupation,
       viewProfile: Math.floor(Math.random() * 10000),
       impressions: Math.floor(Math.random() * 5000)
     })

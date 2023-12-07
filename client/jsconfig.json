@@ -4,6 +4,3 @@
     },
     "include": ["src"]
 }
-/*
-    What this is doing, when you import different files into other files you can just start from source
-*/
