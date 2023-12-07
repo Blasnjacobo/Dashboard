@@ -1,5 +1,5 @@
 /* eslint-disable no-unused-vars */
-import bcrypt from 'bcrypt' //* bcript help us to encript our password
+import bcrypt from 'bcryptjs' //* bcript help us to encript our password
 import jwt from 'jsonwebtoken' //* Give us a way to send a user a web token that they can use for authorization
 import User from '../models/User.js'
 
