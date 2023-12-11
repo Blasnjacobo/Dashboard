@@ -13,7 +13,7 @@ const LoginPage = () => {
         textAlign='center'
       >
         <Typography fontWeight='bold' fontSize='32px' color='neutral'>
-          My social Media 3000
+          My social Media 3000, I am still working on optimizing the cold start after clicking the login button, if this page hasnt been active for a while it could take up to 1 minute to load, thanks for your comprehension
         </Typography>
       </Box>
 
